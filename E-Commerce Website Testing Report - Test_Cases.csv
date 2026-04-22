@@ -1,0 +1,13 @@
+Test Case ID,Module,Test Scenario,Steps,Expected Result,Actual Result,Severity,Status
+TC01,Login,Valid login,Enter valid username and password,User redirected to dashboard,Successfully redirected to dashboard,-,Pass
+TC02,Login,Invalid login,Enter invalid username and password,Error message should be displayed,Error message indicating invalid login displayed,-,Pass
+TC03,Login,Empty fields,Click login without entering username and password,Error message asking for credentials should be displayed,Error message indicating missing credentials is displayed,-,Pass
+TC04,Products,View products,Login and view product list,Product list and prices should be displayed,Product list and prices are displayed,-,Pass
+TC05,Products,Click product,Click on a product and view details,Product should be displayed in detail,Product details displayed successfully,-,Pass
+TC06,Products,Add to cart,Select products and add to cart,Product should be added to cart,Product added to cart successfully,-,Pass
+TC07,Cart,Remove items,Add products then click to remove,Product should be removed from cart,Product removed from cart successfully,-,Pass
+TC08,Cart,Cart count,Add products to cart,Cart icon should update count,Count updated in cart icon,-,Pass
+TC09,Checkout,Fill details,"Enter first name,last name and zip",System should accept user details,Details successfully accepted,-,Pass
+TC10,Checkout,Complete purchase,Click finish after checkout,Order confirmation page should be displayed,Order successfully confirmed,-,Pass
+TC11,Checkout,Checkout with empty cart,Do not add any product → Go to cart → Click checkout,System should prevent checkout and display a message indicating that the cart is empty,User is allowed to proceed to checkout,Low,Fail
+TC12,Logout,Logout Functionality,Logout from the website,User should be logged out,Logged out successfully,-,Pass
