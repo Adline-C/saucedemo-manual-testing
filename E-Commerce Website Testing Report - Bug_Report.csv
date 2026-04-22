@@ -1,0 +1,2 @@
+Bug ID,Module,Title,Steps,Expected,Actual,Severity,Type
+BUG01,Checkout,Checkout allowed with empty cart,Do not add any product → Go to cart → Click checkout,System should prevent checkout and display a message indicating that the cart is empty,User proceeds to checkout,Low,Usability
