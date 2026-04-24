@@ -22,7 +22,7 @@ https://www.saucedemo.com/
 - Failed: 1
 
 ## 📊 Test Cases
-[View Test Cases (PDF)]("test cases.pdf")
+[View Test Cases (PDF)](test cases.pdf)
 
 ## Key Finding
 - Users are able to proceed to checkout without adding items to the cart (usability issue)
