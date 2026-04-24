@@ -4,7 +4,7 @@
 This project involves manual testing of the SauceDemo e-commerce web application. The goal was to validate core functionalities such as login, product selection, cart operations, and checkout.
 
 ## 👤 Role
-Performed end-to-end manual functional testing and documented results
+Performed end-to-end manual functional testing and documented results for SauceDemo application
 
 ## 🌐 Application Tested
 https://www.saucedemo.com/
