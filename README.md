@@ -1,40 +1,33 @@
 # Manual Testing Project – SauceDemo
 
-## Project Overview
+## 📌 Project Overview
 This project involves manual testing of the SauceDemo e-commerce web application. The goal was to validate core functionalities such as login, product selection, cart operations, and checkout.
 
-## Application Tested
+## 🌐 Application Tested
 https://www.saucedemo.com/
 
-## Testing Approach
-- Designed and executed test cases for key modules:
+## 🧪 Testing Approach
+- Designed and executed test cases for:
   - Login
   - Products
   - Cart
   - Checkout
   - Logout
-- Compared expected and actual results
+- Compared expected vs actual results
 - Identified and documented defects
 
-## Test Summary
+## 📊 Test Summary
 - Total Test Cases: 12
 - Passed: 11
 - Failed: 1
 
-## 📊 Test Cases
-[View Test Cases (PDF)](testcases.pdf)
+## 🔍 Key Finding
+Checkout process allows users to proceed without adding items to the cart (Usability Issue)
 
-## 🐞 Bug Report
-[View Bug Report (PDF)](Bugreport.pdf)
+## 📁 Files Included
+- [Test Cases (PDF)](Test_Cases.pdf)
+- [Bug Report (PDF)](Bug_Report.pdf)
 
-## Key Finding
-- Users are able to proceed to checkout without adding items to the cart (usability issue)
-
-## Files Included
-- Test_Cases.xlsx
-- Bug_Report.xlsx
-- Test_Summary.txt
-
-## Tools Used
+## 🛠 Tools Used
 - Google Sheets / Excel
 - Manual Testing Techniques
