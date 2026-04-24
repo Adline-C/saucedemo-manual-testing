@@ -24,6 +24,9 @@ https://www.saucedemo.com/
 ## 📊 Test Cases
 [View Test Cases (PDF)](testcases.pdf)
 
+## 🐞 Bug Report
+[View Bug Report (PDF)](Bugreport.pdf)
+
 ## Key Finding
 - Users are able to proceed to checkout without adding items to the cart (usability issue)
 
