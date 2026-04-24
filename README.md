@@ -21,6 +21,9 @@ https://www.saucedemo.com/
 - Passed: 11
 - Failed: 1
 
+## 📊 Test Cases
+[View Test Cases (PDF)]("C:\Users\Adline\Downloads\E-Commerce Website Testing Report - Test_Cases.pdf")
+
 ## Key Finding
 - Users are able to proceed to checkout without adding items to the cart (usability issue)
 
