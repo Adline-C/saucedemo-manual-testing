@@ -22,8 +22,10 @@ https://www.saucedemo.com/
 - Failed: 1
 
 ## 📸 Sample Screenshots
-
+Test Cases:
 ![Test Cases](images/test_cases.png)
+
+Bug Report:
 ![Bug Report](images/bug_report.png)
 
 ## 🔍 Key Finding
