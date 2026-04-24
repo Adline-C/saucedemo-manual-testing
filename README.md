@@ -21,6 +21,11 @@ https://www.saucedemo.com/
 - Passed: 11
 - Failed: 1
 
+## 📸 Sample Screenshots
+
+![Test Cases](images/test_cases.png)
+![Bug Report](images/bug_report.png)
+
 ## 🔍 Key Finding
 Checkout process allows users to proceed without adding items to the cart (Usability Issue)
 
